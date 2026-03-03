@@ -1,0 +1,5 @@
+{
+  "name": "PeerConnect",
+  "description": "A secure, peer-to-peer messaging and calling application that works without a central server or API keys.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
